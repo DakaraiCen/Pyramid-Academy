@@ -13,6 +13,7 @@ public class Main {
         System.out.println("and will share his treasure with you. The other dragon");
         System.out.println("is greedy and will eat you on sight.");
         System.out.println("Which cave are you willing to go into? Cave 1 or Cave 2?");
+        System.out.println("Please pick either 1 or 2.");
 
 
         String Cave1 = " You approach the cave.. \n" + "It's dark and spooky... \n" + "A large dragon jumps out in front of you! \n" +
@@ -22,15 +23,19 @@ public class Main {
                 "He opens his jaws and ... \n" + "Share's some of it's treasure with you. ";
 
 
-     int answer = userinput.nextInt();
+
+        int answer = userinput.nextInt();
 
      if(answer == 1)
      {
          System.out.println(Cave1);
      }
-     else
+     else if (answer == 2)
      {
          System.out.println(Cave2);
+     }
+     else {
+         System.out.println("You picked the wrong input");
      }
 
 
