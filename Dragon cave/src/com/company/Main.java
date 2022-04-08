@@ -37,7 +37,9 @@ public class Main {
      else {
          System.out.println("You picked the wrong input");
      }
-
+try {
+  if(System.out.println();)
+}
 
     }
 }

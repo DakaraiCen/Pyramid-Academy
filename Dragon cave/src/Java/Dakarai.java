@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Dakarai {
+public class Dakarai {
+    public String name;
+
+    public String getName() {
+        return name;
+    }
 }
