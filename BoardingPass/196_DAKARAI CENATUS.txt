@@ -1,0 +1,14 @@
+=============================================================
+Boarding Pass Number  : 196
+                Date  : 07/10/0002
+              Origin  : African
+         Destination  : London
+                 ETA  : 07/10/0002 09:57
+      Departure Time  : 07/10/0002 10:02
+      Passenger Name  : Dakarai Cenatus
+               Email  : dakarai.cenatus@gmail.com
+        Phone Number  : 909-543-8822
+              Gender  : Male
+                 Age  : 19
+  Total Ticket Price  : $1000.0
+=============================================================
